@@ -1,0 +1,14 @@
+dl{
+color:#FFA500;
+}
+dd{
+border-width: 1px;
+border-style: solid;
+border-color: #000000;
+border-right-color: #FFA500;
+border-right-width: 4px;
+width: 130px;
+text-align: left;
+text-indent: 10px;
+
+}
