@@ -1,0 +1,89 @@
+ <!--JUNIO HARISON RODRIGUES RGA = 201621640030-->
+#um{
+ border:1px solid #000000;
+  height: 270px;
+  width: 650px;
+  margin: 5px; 
+  float: left;
+   background-color: #B0E0E6;
+
+}
+
+.dois{
+  border:1px solid #000000;
+  height: 82px;
+  width: 650px;
+   margin: 5px; 
+   float: left;
+    background-color: #B0E0E6;
+}
+
+.tres{
+ height: 110px;
+ width: 320px;
+ 
+ margin: 5px;
+float: left;
+ }
+
+ #gt{
+border-right: 1px solid #000000;
+ height: 110px;
+
+ }
+
+ .tres1{
+ height: 110px;
+ width: 320px;
+ 
+ margin: 5px;
+float: left;
+margin-top: -110px;
+ }
+
+ #gt1{
+border-right: 1px solid #000000;
+ height: 110px;
+
+ }
+
+ .quatro{
+ border:1px solid #000000;
+  height: 300px;
+  width: 320px;
+ float: left;
+ margin: 5px;
+ margin-top: 50px;
+  background-color: #B0E0E6;
+ }
+
+  .quatro1{
+ border:1px solid #000000;
+  height: 300px;
+  width: 320px;
+ float: left;
+ margin: 5px;
+ margin-top: -306px;
+ 
+  background-color: #B0E0E6;
+ 
+ 
+ 
+ }
+
+ #um1{
+ border:1px solid #000000;
+  height: 300px;
+  width: 650px;
+  margin: 5px; 
+  float: left;
+  margin-top: 15px;
+ 
+ 
+  background-color: #B0E0E6;
+
+}
+
+body{
+background-color: #FFB90F;
+}
